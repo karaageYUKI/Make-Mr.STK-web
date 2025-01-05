@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-dottkiri-virus
+    name: google-Mr.STK-web-v0.1
     env: python
     region: Oregon
     plan: free
