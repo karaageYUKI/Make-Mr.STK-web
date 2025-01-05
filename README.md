@@ -1,1 +1,1 @@
-# Make-Mr.STK-web
+# Mr.STKのwebサイト
